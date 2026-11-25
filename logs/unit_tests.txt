@@ -1,0 +1,18 @@
+test_all_fixture_phase_identities (test_certificates.GraphTests.test_all_fixture_phase_identities) ... ok
+test_csv_verifier_rejects_corruption (test_certificates.GraphTests.test_csv_verifier_rejects_corruption) ... ok
+test_invalid_period_closure (test_certificates.GraphTests.test_invalid_period_closure) ... ok
+test_lee_interval_and_clique (test_certificates.GraphTests.test_lee_interval_and_clique) ... ok
+test_palette_mismatch (test_certificates.GraphTests.test_palette_mismatch) ... ok
+test_too_short_period (test_certificates.GraphTests.test_too_short_period) ... ok
+test_all_90_independent_decisions (test_certificates.PairingTests.test_all_90_independent_decisions) ... ok
+test_corrupt_pair_rejected (test_certificates.PairingTests.test_corrupt_pair_rejected) ... ok
+test_general_proof_both_parity_classes (test_certificates.PairingTests.test_general_proof_both_parity_classes) ... ok
+test_large_certificates (test_certificates.PairingTests.test_large_certificates) ... ok
+test_obstruction_only_fixed_phase (test_certificates.PairingTests.test_obstruction_only_fixed_phase) ... ok
+test_table1_literal (test_certificates.PairingTests.test_table1_literal) ... ok
+test_upper_pairs (test_certificates.PairingTests.test_upper_pairs) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 1.011s
+
+OK

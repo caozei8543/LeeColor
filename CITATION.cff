@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the actual software release if you use these data or scripts."
+authors:
+  - family-names: Zhang
+    given-names: Weibiao
+  - family-names: Cao
+    given-names: Tao
+title: "Exact [1,1,u]-colorings of toroidal grid powers via Lee cliques and modular difference pairings: reproducibility code and data"
+version: 2.0.0
+type: software
+repository-code: "https://github.com/caozei8543/toroidal-grid-power-colorings"
+license: MIT
+keywords:
+  - toroidal grid powers
+  - total coloring
+  - Lee metric
+  - Skolem sequences
+  - modular difference pairing

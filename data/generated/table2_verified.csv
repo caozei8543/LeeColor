@@ -1,0 +1,9 @@
+d,u,kappa_d,chi_1_1_u,n,m,result,case_id,clique_lower_bound,construction_upper_bound,hypotheses_and_coloring_valid
+2,2,5,15,15,5,Theorem 2,table2_d2_u2_15x5,15,15,True
+2,3,5,17,17,17,Theorem 2,table2_d2_u3_17x17,17,17,True
+3,3,8,29,29,29,Theorem 2,table2_d3_u3_29x29,29,29,True
+3,4,8,31,31,31,Theorem 2,table2_d3_u4_31x31,31,31,True
+4,3,13,45,45,9,Theorem 2,table2_d4_u3_45x9,45,45,True
+4,7,13,53,53,53,Theorem 2,table2_d4_u7_53x53,53,53,True
+5,9,18,77,77,77,Theorem 2,table2_d5_u9_77x77,77,77,True
+6,13,25,109,109,109,Theorem 2,table2_d6_u13_109x109,109,109,True

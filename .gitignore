@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+# Numerical CSV and JSON output shipped with the release are intentionally tracked.
+
+reproduced/
